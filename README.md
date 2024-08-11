@@ -1,15 +1,15 @@
-# Array Sorting Project
+# Array Sort Project
 
-Este projeto Java demonstra a ordenação de arrays utilizando o algoritmo Bubble Sort. Ele inclui métodos para gerar arrays aleatórios, ordenar o array e exibir o resultado.
+This Java project demonstrates the sorting of arrays using the Bubble Sort algorithm. It includes methods for generating random arrays, sorting the array, and displaying the result.
 
-## Estrutura do Projeto
+##Project Structure
 
-- **Display**: Classe principal que executa o programa. Gera um array de inteiros, preenche-o com números aleatórios, ordena o array usando Bubble Sort e exibe os resultados.
-- **MethodBubbleSort**: Contém a implementação do algoritmo Bubble Sort e um método auxiliar para a troca de elementos.
-- **MethodRadom**: Fornece métodos para gerar números aleatórios e popular o array com esses números.
+- **Display**: Main class that runs the program. Generate an integer array, fill it with random numbers, sort the array using Bubble Sort, and display the results.
+- **MethodBubbleSort**: Contains an implementation of the Bubble Sort algorithm and an auxiliary method for exchanging elements.
+- **MethodRadom**: Provides methods for generating random numbers and populating the array with these numbers.
 
-## Funcionalidades
+## Features
 
-- **Gerar Array Aleatório**: O método `populateArray` preenche um array com números aleatórios entre 1 e 20.
-- **Ordenar Array**: O método `bubbleSort` utiliza o algoritmo Bubble Sort para ordenar o array.
-- **Exibir Resultados**: O array é exibido antes e depois da ordenação.
+- **Generate Random Array**: The `populateArray` method fills an array with random numbers between 1 and 20.
+- **Sort Array**: The `bubbleSort` method uses the Bubble Sort algorithm to sort the array.
+- **Display Results**: The array is displayed before and after sorting.

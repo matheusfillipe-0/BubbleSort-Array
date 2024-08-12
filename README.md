@@ -13,6 +13,11 @@ This Java project demonstrates the sorting of arrays using the Bubble Sort algor
 - **Generate Random Array**: The `populateArray` method fills an array with random numbers between 1 and 20.
 - **Sort Array**: The `bubbleSort` method uses the Bubble Sort algorithm to sort the array.
 - **Display Results**: The array is displayed before and after sorting.
+
+## illustrative image
+
+<img src="https://lh5.googleusercontent.com/_oLwPF5ZvaZZ4pGD-HvSUSw6nTwwHjUwcLpNigUvb24-PKNwjMUwXcWYWf2wp4HopzHkh9JVmZd_AFYP4HjSYelidbw4FRo1fHrWV3KxbFM13xlRLALb-y-EbLhEmln11lhwEZPV" alt="Imagem">
+
   
 ## How to use
 

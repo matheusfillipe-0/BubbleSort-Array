@@ -1,4 +1,4 @@
-# Array Sort Project
+# BubbleSort
 
 This Java project demonstrates the sorting of arrays using the Bubble Sort algorithm. It includes methods for generating random arrays, sorting the array, and displaying the result.
 
